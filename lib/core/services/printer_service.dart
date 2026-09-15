@@ -1,7 +1,7 @@
 import 'dart:typed_data';
 
 import 'package:blue_thermal_printer/blue_thermal_printer.dart';
-import 'package:esc_pos_utils_2/esc_pos_utils.dart';
+import 'package:esc_pos_utils/esc_pos_utils.dart';
 
 class PrinterService {
   PrinterService._();
